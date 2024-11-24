@@ -1,0 +1,24 @@
+{
+  "originHash" : "27e40ebb9147b316fa2a1c3896366509d4abf8eee5d8193c710501cb1857705e",
+  "pins" : [
+    {
+      "identity" : "arkit-smarthittest",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/maxxfrazer/ARKit-SmartHitTest",
+      "state" : {
+        "revision" : "2b7145d55ca273f1ec0328783f87e93b9473f9f5",
+        "version" : "2.0.0"
+      }
+    },
+    {
+      "identity" : "focusentity",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/maxxfrazer/FocusEntity",
+      "state" : {
+        "revision" : "4b4840678c618c675a84960cf11c50a8aecc0104",
+        "version" : "1.1.1"
+      }
+    }
+  ],
+  "version" : 3
+}
